@@ -2,43 +2,73 @@
 
 **_This README.md file in also available in Spanish ([README-Spanish]())_**
 
-_LA-CoNGA Physics_ is an [Erasmus+ Capacity Building](https://ec.europa.eu/programmes/erasmus-plus/opportunities/organisations/innovation-good-practices/capacity-building-higher-education_en) project, an European-Latinamerican network which aims to support the modernization of the university infrastructure and the pedagogical offer in advanced physics in four Latin American countries: Colombia, Ecuador, Peru and Venezuela. This virtual teaching and research network is composed of 3 partner universities in Europe and 8 in Latin America, high-level scientific partners (CEA, CERN, CNRS, DESY, ICTP), and several academic and industrial partners (including redCLARA, CAEN, among others). The project is co-funded by the Education, Audiovisual and Culture Executive Agency (EACEA) of the European Commission.
+First and foremost, Welcome! 🎉 Bienvenidos y bienvenidas 🎊!
 
-In practice LA-CoNGA has created a set of postgraduate courses in Advanced Physics (high energy physics and complex systems) that are common and inter-institutional, supported by the installation of interconnected instrumentation laboratories and an open e-learning platform. This program is inserted as a specialization in the Physics masters of the 8 Latinamerican partners in Colombia, Ecuador, Peru and Venezuela. It is based on three pillars: courses in physics theory/phenomenology, data science and instrumentation. 
+Thank you for visiting LA-CoNGA physics repository.
 
-More information can be found at: https://laconga.redclara.net 
+Jump straight to one of the sections below, or just scroll down to find out more.
 
 Table of contents:
 
-- [LA-CoNGA physics mission and vision](#LA-CoNGA-physics-mission-and-vision)
+- [About LA-CoNGA physics](#About-LA-CoNGA-physics)
 - [The team](#the-team)
 - [Contributing](#contributing)
-- [Citing _LA-CoNGA physics_](#citing-LA-CoNGA-physics)
 - [Get in touch](#get-in-touch)
+- [Citing _LA-CoNGA physics_](#citing-LA-CoNGA-physics)
 - [Contributors](#contributors)
 
+## About the project
 
-### About the project
+### What are we doing?
 
-### LA-CoNGA physics mission and vision
+_LA-CoNGA Physics_ is an [Erasmus+ Capacity Building](https://ec.europa.eu/programmes/erasmus-plus/opportunities/organisations/innovation-good-practices/capacity-building-higher-education_en) project, an European-Latinamerican network which aims to support the modernization of the university infrastructure and the pedagogical offer in advanced physics in four Latin American countries: Colombia, Ecuador, Peru and Venezuela. This virtual teaching and research network is composed of 3 partner universities in Europe and 8 in Latin America, high-level scientific partners (CEA, CERN, CNRS, DESY, ICTP), and several academic and industrial partners (including redCLARA, CAEN, among others). The project is co-funded by the Education, Audiovisual and Culture Executive Agency (EACEA) of the European Commission. _LA-CoNGA physics_ started officially in January 2020 and has an initial funding for 3 years.
 
-LA-CoNGA physics mission is the creation of a Latin-American-European Virtual Research and Learning Community in the field of Advanced Physics to promote the values of collaboration, open education and open research in institutes from Colombia, Ecuador, Peru and Venezuela. We will train a new generation of scientists in Latin-America through a one-year master level specialization program that focuses on three pillars of knowledge: theoretical physics, instrumentation in experimental design and data science. We will build a diverse collaborative network that allows the students to access tools, equipment, and know-how that would otherwise not be available.
+In practice _LA-CoNGA physics_ has created a set of postgraduate courses in Advanced Physics (high energy physics and complex systems) that are common and inter-institutional, supported by the installation of interconnected instrumentation laboratories and an open e-learning platform. This program is inserted as a specialization in the Physics masters of the 8 Latinamerican partners in Colombia, Ecuador, Peru and Venezuela. It is based on three pillars: courses in physics theory/phenomenology, data science and instrumentation. 
 
-### The team
+More information can be found at: https://laconga.redclara.net 
 
+### Why are we doing it?
 
+STEM master programs in most of Latinamerica focus on the scientific theoretical aspects, with little formal training in data science and instrumentation so needed in today’s world inside and outside academia. In this sense _LA-CoNGA physics_ ’ pedagogical offer is a first of its kind in the region. In addition, working in a network configuration allows to combine the technical and personpower resources from the institutions to create such a pedagogical offer. Together we are stronger.
 
-### Contributing
-
-
-
-### Citing _LA-CoNGA Physics_
-
-
-### Get in touch
+We are guided by the principles of open science and open education. The development of robust, open research in our partner institutions could have global benefits and global collaborations like _LA-CoNGA physics_ would increase their access to resources that might currently be off limits. We want to:
+* Promote open science values such as reproducibility, transparency and openness in the partner universities
+* Create a dynamic and international community trained in open science principles and advocate for them 
 
 
+## LA-CoNGA physics mission and vision
 
-### Contributors
+_LA-CoNGA physics_ mission is the creation of a Latin-American-European Virtual Research and Learning Community in the field of Advanced Physics to promote the values of collaboration, open education and open research in institutes from Colombia, Ecuador, Peru and Venezuela. We will train a new generation of scientists in Latin-America through a one-year master level specialization program that focuses on three pillars of knowledge: theoretical physics, instrumentation in experimental design and data science. We will build a diverse collaborative network that allows the students to access tools, equipment, and know-how that would otherwise not be available.
+
+## The team
+
+_LA-CoNGA physics_ network is composed of 11 universities, 9 research institutions and 3 industrial partners in advanced physics:
+ADD LIST AND LINKS HERE
+
+This is (part of) the project team planning work virtually.
+![Team photo](book/website/figures/TuringWayTeam.jpg)
+
+## Contributing
+
+
+## Get in touch
+
+
+## Citing _LA-CoNGA Physics_
+
+
+## Thank you 
+
+Thank you so much (Gracias!) for visiting the project and we do hope that you'll join us on this amazing journey to .
+
+## Contributors
+
+
+
+
+
+
+
+
 
 
