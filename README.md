@@ -46,22 +46,35 @@ _LA-CoNGA physics_ network is composed of 11 universities, 9 research institutio
 ADD LIST AND LINKS HERE
 
 This is (part of) the project team planning work virtually.
-![Team photo](book/website/figures/TuringWayTeam.jpg)
+![Team photo](website/figures/integrantes-conga-yankady-corregido-1.png)
 
 ## Contributing
 
+:construction: This project is a work in progress and we are always looking for motivated people to help us build something that is useful for our students :construction:
+
+We need experts (researchers and teachers) in the Advanced physics for curricula design, in interconnected instrumentation, in data management (particularly ensuring the highest quality data protection plans are in place), in communication, in fundraising, app development, user experience design and documentation.
+
+If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're sure you can) then please check out our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+
+Please note that it's very important to us that we maintain a positive, open, safe and supportive learning environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 ## Get in touch
 
+You can contact our project manager **Andrea Grijalva** by email at contacto AT laconga DOT redclara DOT net
+You can follow also the project in our social networks @lacongaphysics in Instagram, Twitter and Facebook.
 
 ## Citing _LA-CoNGA Physics_
 
+For now we do not have anything. To be added later.
 
 ## Thank you 
 
 Thank you so much (Gracias!) for visiting the project and we do hope that you'll join us on this amazing journey to .
 
 ## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Do we want to add the contributors list??
 
 
 
