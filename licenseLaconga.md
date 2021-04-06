@@ -1,11 +1,13 @@
-# Licencia para Contenidos LA-CoNGA
+# Licencia para Contenidos LA-CoNGA Physics
 
-All content generated within the framework of the LA-CoNGA project will be covered under open licenses.
+All content generated within the framework of the LA-CoNGA Physics project will be covered under open licenses.
 
 Multimedia contents (Images, Videos and Audio), collections (Text documents, Presentations and PDF's) and data sets will have the Creative Commons Attribution 4.0 license (CC-By-4.0). The computer codes, markup languages and in general, all software will have a GPL V3 license.
 
-The  license text listed below (describing CC-BY-4.0 as their usage in LA-CoNGA) is re-used under a CC-BY license from The Turing Way wich is also re-used from the Carpentries community materials.
+The  license text listed below (describing CC-BY-4.0 as their usage in LA-CoNGA Physics) is re-used under a CC-BY license from The Turing Way wich is also re-used from the Carpentries community materials.
 (Specifically from the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md)).
+
+> The contents used in LA-CoNGA Physics activities created by other projects or institutions will retain the rights assigned by their creators. The contents derived from these will respect the rights of use of the original contents.
 
 ## Process documents and data
 
@@ -36,7 +38,7 @@ With the understanding that:
 
 ## Software
 
-> Except where otherwise noted, the software and infrastructure provided by LA-CoNGA Community are made available under the [OSI][osi]-approved [GPL-V3][GPL-V3].
+> Except where otherwise noted, the software and infrastructure provided by LA-CoNGA Physics Community are made available under the [OSI][osi]-approved [GPL-V3][GPL-V3].
 
 All software in this repository are made available under the [GNU General Public License V3][GPL-V3].
 

@@ -1,6 +1,6 @@
-# LA-CoNGA Metadata
+# LA-CoNGA Physics Metadata
 
-The contents created in the LA-CoNGA activities will be defined in an open science framework, open access to these will be essential and actions will be developed so that they comply with the [FAIR principles](https://www.go-fair.org/fair-principles/). The ** Dublin Core ** metadata schema will be used to describe the content created and facilitate its discovery.
+The contents created in the LA-CoNGA Physics activities will be defined in an open science framework, open access to these will be essential and actions will be developed so that they comply with the [FAIR principles](https://www.go-fair.org/fair-principles/). The ** Dublin Core ** metadata schema will be used to describe the content created and facilitate its discovery.
 
 > The contents of other institutions or projects used in LA-CoNGA activities will be treated according to the guidelines given by the institution or project creator.
 
@@ -9,33 +9,33 @@ The contents created in the LA-CoNGA activities will be defined in an open scien
 
 ### Dublin Core Vocabulary
 
-In a first stage, the contents defined as LA-CoNGA products and framed in the ** Dublin Core ** vocabulary are:
+In a first stage, the contents defined as LA-CoNGA Physics products and framed in the ** Dublin Core ** vocabulary are:
 
 - Collection - "An aggregation of resources"  
-A collection is described as a group; its parts may also be separately described.
+A collection is described as a group; its parts may also be separately described. Examples: Word Documents or MkDocs Projects
 - Dataset - "Data encoded in a defined structure"
 Examples include lists, tables, and databases. A dataset may be useful for direct machine processing.
 - Event - "A non-persistent, time-based occurrence"   
-Comment 	Metadata for an event provides descriptive information that is the basis for discovery of the purpose, location, duration, and responsible agents associated with an event. Examples include an exhibition, webcast, conference, workshop, open day, performance, battle, trial, wedding, tea party, conflagration.
+Comment Metadata for an event provides descriptive information that is the basis for discovery of the purpose, location, duration, and responsible agents associated with an event. Examples include seminars or hackatons
 - Image - "A visual representation other than text"   
-Examples include images and photographs of physical objects, paintings, prints, drawings, other images and graphics, animations and moving pictures, film, diagrams, maps, musical notation. Note that Image may include both electronic and physical representations.
+Examples include images and photographs of physical objects, plots, prints, drawings, other images and graphics, animations and moving pictures, film, diagrams, maps. Note that Image may include both electronic and physical representations.
 - InteractiveResource - "A resource requiring interaction from the user to be understood, executed, or experienced"  
-Examples include forms on Web pages, applets, multimedia learning objects, chat services, or virtual reality environments.
+Examples include forms on Web pages or chat services like mattermost.
 - MovingImage - "A series of visual representations imparting an impression of motion when shown in succession"   
-Examples include animations, movies, television programs, videos, zoetropes, or visual output from a simulation. Instances of the type Moving Image must also be describable as instances of the broader type Image.
+Examples include animations, class recording, video tutorials or video description of experiments. Instances of the type Moving Image must also be describable as instances of the broader type Image.
 <!--- PhysicalObject - "An inanimate, three-dimensional object or substance"  -
 Note that digital representations of, or surrogates for, these objects should use Image, Text or one of the other types.
 - Service - "A system that provides one or more functions"  -
 Examples include a photocopying service, a banking service, an authentication service, interlibrary loans, a Z39.50 or Web server.-->
 - Software - "A computer program in source or compiled form"  
-Examples include a C source file, MS-Windows .exe executable, or Perl script.
+Examples include a Jupyter Notebook, a C++ script, a python script or more elaborate software like ROOT Framework.
 - Sound - "A resource primarily intended to be heard"   
-Examples include a music playback file format, an audio compact disc, and recorded speech or sounds.
+Examples include a music playback file format, or audio recordings of classes.
 <!---
 - StillImage - "A static visual representation"   -
 Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials. Instances of the type Still Image must also be describable as instances of the broader type Image.-->
 - Text - "A resource consisting primarily of words for reading"   
-Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.
+Examples include books, letters, dissertations, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.
 
 ### Simple Dublin Core Scheme
 
@@ -59,7 +59,7 @@ For each of these contents, the ** Simple Dublin Core ** scheme will be used as 
 
 ### Qualified Dublin Core Scheme
 
-Some terms from the **Qualified Dublin Core** scheme will also be used in a particular way for each type of content. Below is a description of the ** Qualified Dublin Core ** scheme
+Some terms from the **Qualified Dublin Core** scheme will also be used in a particular way for each type of content. Below is a description of the **Qualified Dublin Core** scheme
 
 - abstract - "A summary of the resource."
 - accessRights - "Information about who access the resource or an indication of its security status."
@@ -104,143 +104,31 @@ Some terms from the **Qualified Dublin Core** scheme will also be used in a part
 
 More information on the **Dublin Core** terms at [https://www.dublincore.org/specifications/dublin-core/dcmi-terms/](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
 
-## Metadata for LA-CoNGA content
+## Metadata for LA-CoNGA Physics content
 
-In addition to the **Simple Dublin Core** metadata set, LA-CoNGA content will have additional metadata from the **Quialified Dublin Core** schema depending on the content type. Additional metadata is defined below.
+In addition to the **Simple Dublin Core** metadata set, LA-CoNGA Physics content will have additional metadata from the **Quialified Dublin Core** schema depending on the content type. Additional metadata is defined below.
 
-- Additional metadata for Collections
-  - abstract
-  - alternative
-  - audience
-  - bibliographicCitation
-  - created
-  - dateCopyrighted
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-  - isVersionOf
-  - license
-  - modified
-  - requires
-  - rightsHolder
-  - tableOfContents
-- Additional metadata for Datasets
-  - alternative
-  - audience
-  - available
-  - created
-  - dateCopyrighted
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-  - isVersionOf
-  - license
-  - modified
-  - requires
-  - rightsHolder
-- Additional metadata for Events
-  - audience
-  - bibliographicCitation
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-- Additional metadata for Images
-  - alternative
-  - audience
-  - available
-  - bibliographicCitation
-  - created
-  - dateCopyrighted
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-  - isVersionOf
-  - license
-  - modified
-  - rightsHolder
-- Additional metadata for InteractiveResources
-  - audience
-  - available
-  - bibliographicCitation
-  - created
-  - dateCopyrighted
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-  - isVersionOf
-  - license
-  - modified
-  - requires
-  - rightsHolder
-- Additional metadata for MovingImages
-  - alternative
-  - audience
-  - available
-  - bibliographicCitation
-  - created
-  - dateCopyrighted
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-  - isVersionOf
-  - license
-  - modified
-  - rightsHolder
-- Additional metadata for Software
-  - alternative
-  - audience
-  - available
-  - bibliographicCitation
-  - created
-  - dateCopyrighted
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-  - isVersionOf
-  - license
-  - modified
-  - requires
-  - rightsHolder
-- Additional metadata for Sounds
-  - alternative
-  - audience
-  - available
-  - bibliographicCitation
-  - created
-  - dateCopyrighted
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-  - isVersionOf
-  - license
-  - modified
-  - rightsHolder
-- Additional metadata for Text
-  - abstract
-  - alternative
-  - audience
-  - available
-  - bibliographicCitation
-  - created
-  - dateAccepted
-  - dateCopyrighted
-  - dateSubmitted
-  - educationLevel
-  - extent
-  - isPartOf
-  - isVersionOf
-  - license
-  - modified
-  - rightsHolder
+- abstract (only for collections)
+- audience
+- bibliographicCitation
+- created
+- dateSubmitted
+- educationLevel
+- extent
+- isPartOf
+- isVersionOf
+- license
+- modified
+- requires
+- rightsHolder
 
+The LA-CoNGA Physics contents will be largely educational in nature, in order to better describe them for this scenario, the following metadata fields will be used.
+
+- Learning outcome - ""
+- Keywords - "A set of keywords that describe the content and its topic"
+- Time required - "The estimated time of dedication to analyze, interpret or work up the content"
+
+The metadata described in this document will be the basis for all LA-ConGA Physics content, however, if it is required for a better description of any content, other metadata may be used. The other metadata of the Dublin Core schema, metadata of other schemas or specific metadata (metadata associated with the status of some detector for example) can and should be used. 
 
 > Pendiente:
 >
