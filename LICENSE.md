@@ -1,17 +1,18 @@
-# License for LA-CoNGA Physics contents
+# License for LA-CoNGA Physics Contents
 
 All content generated within the framework of the LA-CoNGA Physics project will be covered under open licenses.
 
-Multimedia contents (Images, Videos and Audio), collections (Text documents, Presentations and PDF's) and data sets will have the Creative Commons Attribution 4.0 license (CC-By-4.0). The computer codes, markup languages and in general, all software will have a GPL V3 license.
+Multimedia contents (Images, Videos and Audio), collections (Text documents, Presentations and PDF's) and datasets will have the Creative Commons Attribution 4.0 license (CC-By-4.0). The computer codes, markup languages and in general, all software will have a GPL V3 license. For more information on this vocabulary visit [Dublin core specifications](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/dcmitype/Collection)
 
-The  license text listed below (describing CC-BY-4.0 as their usage in LA-CoNGA Physics) is re-used under a CC-BY license from The Turing Way wich is also re-used from the Carpentries community materials.
+The license text listed below (describing CC-BY-4.0 as their usage in LA-CoNGA Physics) is re-used under a CC-BY license from The Turing Way wich is also re-used from the Carpentries community materials.
 (Specifically from the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md)).
 
 > The contents used in LA-CoNGA Physics activities created by other projects or institutions will retain the rights assigned by their creators. The contents derived from these will respect the rights of use of the original contents.
 
-## Process documents and data
+## Process Documents and Data
 
-All documentation and chapter materials in this repository are made available under the [Creative Commons Attribution license][cc-by-human].
+All Collection, Dataset, Interactive Resource, Event, Images Moving Image, Sound and and Text in this repository are made available under the [Creative Commons Attribution license][cc-by-human].
+
 The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal].
 
 You are free:
@@ -25,10 +26,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 Under the following terms:
 
-* **Attribution**---You must give appropriate credit (mentioning that your work is derived from work that is Copyright © The Turing Way Community and, where practical, linking to https://github.com/alan-turing-institute/the-turing-way), provide a [link to the license][cc-by-human], and indicate if changes were made.
+* **Attribution**---You must give appropriate credit (mentioning that your work is derived from work that is Copyright ©LA-CoNGA Physics and, where practical, linking to [https://laconga.redclara.net](https://laconga.redclara.net)), provide a [link to the license][cc-by-human], and indicate if changes were made.
   You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* **No additional restrictions**---You may not apply legal terms or technological measures that legally restrict others from doing
-anything the license permits.
+* **No additional restrictions**---You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 With the understanding that:
 
