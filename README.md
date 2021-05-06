@@ -1,6 +1,17 @@
-# LA-CoNGA physics (Latin American alliance for Capacity buildNG in Advanced physics)
+<div align="center">
+  <img alt="ReDoc logo" src="docs/images/logo-laconga-nt.png" width="150px" />
 
+  **LA-CoNGA physics (Latin American alliance for Capacity buildNG in Advanced physics)**
+
+
+[![pipeline status](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs/badges/master/pipeline.svg)](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs/-/commits/master)
+[![coverage report](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs/badges/master/coverage.svg)](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs/-/commits/master)
+
+</div>
+
+<!--
 **_This README.md file in also available in Spanish ([README-Spanish]())_**
+-->
 
 First and foremost, Welcome! 🎉 Bienvenidos y bienvenidas 🎊!
 
@@ -10,7 +21,9 @@ Jump straight to one of the sections below, or just scroll down to find out more
 
 Table of contents:
 
-- [About LA-CoNGA physics](#About-LA-CoNGA-physics)
+- [About LA-CoNGA physics](#About-the-project)
+  - [What are we doing?](#What-are-we-doing?)
+  - [Why are we doing it?](#Why-are-we-doing-it?)
 - [The team](#the-team)
 - [Contributing](#contributing)
 - [Get in touch](#get-in-touch)
@@ -23,9 +36,9 @@ Table of contents:
 
 _LA-CoNGA Physics_ is an [Erasmus+ Capacity Building](https://ec.europa.eu/programmes/erasmus-plus/opportunities/organisations/innovation-good-practices/capacity-building-higher-education_en) project, an European-Latinamerican network which aims to support the modernization of the university infrastructure and the pedagogical offer in advanced physics in four Latin American countries: Colombia, Ecuador, Peru and Venezuela. This virtual teaching and research network is composed of 3 partner universities in Europe and 8 in Latin America, high-level scientific partners (CEA, CERN, CNRS, DESY, ICTP), and several academic and industrial partners (including redCLARA, CAEN, among others). The project is co-funded by the Education, Audiovisual and Culture Executive Agency (EACEA) of the European Commission. _LA-CoNGA physics_ started officially in January 2020 and has an initial funding for 3 years.
 
-In practice _LA-CoNGA physics_ has created a set of postgraduate courses in Advanced Physics (high energy physics and complex systems) that are common and inter-institutional, supported by the installation of interconnected instrumentation laboratories and an open e-learning platform. This program is inserted as a specialization in the Physics masters of the 8 Latinamerican partners in Colombia, Ecuador, Peru and Venezuela. It is based on three pillars: courses in physics theory/phenomenology, data science and instrumentation. 
+In practice _LA-CoNGA physics_ has created a set of postgraduate courses in Advanced Physics (high energy physics and complex systems) that are common and inter-institutional, supported by the installation of interconnected instrumentation laboratories and an open e-learning platform. This program is inserted as a specialization in the Physics masters of the 8 Latinamerican partners in Colombia, Ecuador, Peru and Venezuela. It is based on three pillars: courses in physics theory/phenomenology, data science and instrumentation.
 
-More information can be found at: https://laconga.redclara.net 
+More information can be found at: https://laconga.redclara.net
 
 ### Why are we doing it?
 
@@ -33,7 +46,7 @@ STEM master programs in most of Latinamerica focus on the scientific theoretical
 
 We are guided by the principles of open science and open education. The development of robust, open research in our partner institutions could have global benefits and global collaborations like _LA-CoNGA physics_ would increase their access to resources that might currently be off limits. We want to:
 * Promote open science values such as reproducibility, transparency and openness in the partner universities
-* Create a dynamic and international community trained in open science principles and advocate for them 
+* Create a dynamic and international community trained in open science principles and advocate for them
 
 
 ## LA-CoNGA physics mission and vision
@@ -65,23 +78,15 @@ You can follow also the project in our social networks @lacongaphysics in Instag
 
 ## Citing _LA-CoNGA Physics_
 
-For now we do not have anything. To be added later.
+For now we do not have anything. To be added later. Define granularity
 
-## Thank you 
+We really appreciate any references that you make to The Turing Way project in your and we hope it is useful. If you have any questions please [get in touch.](#Get-in-touch)
+
+## Thank you
 
 Thank you so much (Gracias!) for visiting the project and we do hope that you'll join us on this amazing journey to .
 
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-Do we want to add the contributors list??
-
-
-
-
-
-
-
-
-
-
+Do we want to add the contributors list?? Yes
