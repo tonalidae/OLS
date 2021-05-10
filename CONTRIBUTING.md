@@ -26,7 +26,6 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 - [Inclusivity](#inclusivity)
 - [Get in touch](#get-in-touch)
 - [Where to start](#where-to-start)
-  - [Using LA-CoNGA Physics platform](#la-conga-platform)
 - [Recognising Contributions](#recognising-contributions)
 
 
@@ -39,10 +38,9 @@ _LA-CoNGA Physics_ is an [Erasmus+ Capacity Building](https://ec.europa.eu/progr
 _LA-CoNGA Physics_ aims to be inclusive to people **from all walks of life and to all research fields.**
 These intentions must be reflected in the contributions that we make to the project.
 
-In addition to the CoC, behavior in each LA-CoNGA scenario must respect diversity and promote equity and inclusion, as mentioned in our **[Diversity Plan](diversity_plan.md)**. Please familiarize yourself with our [Diversity Plan](diversity_plan.md) that lists the expected behaviours.
+In addition to the CoC, behavior in each LA-CoNGA scenario must respect diversity and promote equity and inclusion, as mentioned in our **[Diversity Plan](diversity_plan.md)**.
 
-We encourage intentional, inclusive actions from contributors to _LA-CoNGA Physics_.
-Here are a few examples of such actions:
+We encourage intentional, inclusive actions from contributors to _LA-CoNGA Physics_. Here are a few examples of such actions:
 
 - Use respectful, gender-neutral and inclusive language (learn more about [inclusive writing](https://www.le.ac.uk/oerresources/ssds/studyskills/page_37.htm), resource by University of Leicester).
 - Aim to include perspectives of researchers from different research backgrounds such as science, humanities and social sciences by not limiting the scope to only scientific domains.
@@ -60,11 +58,7 @@ There are many ways to get in touch with _LA-CoNGA Physics_ team!
   - [Youtube Channel](https://www.youtube.com/channel/UCcXSolYkpCW_iYxHrnSJw0w)
 - Contact the Community Manager of _LA-CoNGA Physics_ project - Nane SN - by email at [mail@laconga.redclara.net](mailto:mail@laconga.redclara.net)
 
-## Where to start
-
-Before everything...
-
-### LA-CoNGA Platform
+## Where to start :point_right: LA-CoNGA Platform
 
 We have a set of tools to facilitate the activities developed in LA-CoNGA Physics. These tools seek to manage aspects such as communication, online classes, content preservation or computational calculation in the best way. In [LA-CoNGA Tools Docs](docs/laconga_platform.md) you can find more details of LA-CoNGA Physics platform and guides for the use of each of the tools.
 

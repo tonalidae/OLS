@@ -3,17 +3,17 @@
 
   **LA-CoNGA physics (Latin American alliance for Capacity buildNG in Advanced physics)**
 
-
+<!--
 [![pipeline status](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs/badges/master/pipeline.svg)](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs/-/commits/master)
 [![coverage report](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs/badges/master/coverage.svg)](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs/-/commits/master)
-
+-->
 </div>
 
 <!--
 **_This README.md file in also available in Spanish ([README-Spanish]())_**
 -->
 
-First and foremost, Welcome! 🎉 Bienvenidos y bienvenidas 🎊!
+First and foremost, Welcome! 🎉 Te damos la bienvenida 🎊 :partying_face:!
 
 Thank you for visiting LA-CoNGA physics repository.
 
@@ -26,7 +26,7 @@ Table of contents:
   - [Why are we doing it?](#Why-are-we-doing-it?)
 - [The team](#the-team)
 - [Contributing](#contributing)
-- [Get in touch](#get-in-touch)
+  - [Get in touch](#get-in-touch)
 - [Citing _LA-CoNGA physics_](#citing-LA-CoNGA-physics)
 - [Contributors](#contributors)
 
@@ -55,10 +55,26 @@ _LA-CoNGA physics_ mission is the creation of a Latin-American-European Virtual 
 
 ## The team
 
-_LA-CoNGA physics_ network is composed of 11 universities, 9 research institutions and 3 industrial partners in advanced physics:
-ADD LIST AND LINKS HERE
+[_LA-CoNGA physics_ network](https://laconga.redclara.net/our-partners/) is composed of 11 universities, 9 research institutions and 3 industrial partners in advanced physics:
+- Universidad Antonio Nariño (UAN, BOGOTÁ COLOMBIA)
+- Universidad Industrial De Santander (UIS, BUCARAMANGA COLOMBIA)
+- Universidad San Francisco De Quito (USFQ, QUITO ECUADOR)
+- Universidad De Investigación De Tecnología Experimental Yachay (YACHAY TECH, URCUQUÍ, ECUADOR)
+- Universidad Nacional De Ingeniería (UNI, LIMA PERÚ)
+- Universidad Nacional Mayor De San Marcos (UNMSM, CARACAS VENEZUELA)
+- Universidad Central De Venezuela (UCV, CARACAS VENEZUELA)
+- Universidad Simón Bolívar (USB, CARACAS VENEZUELA)
+- Université De Paris (PARIS FRANCE)
+- University Paul Sabatier, Toulouse Iii (UPS, TOULOUSE FRANCE)
+- Technische Universitaet Dresden (TUD, DREsDE GERMANY)
+- Centre National De La Recherche Scientifique (CNRS FRANCE)
+- CERN (Suiza)
+- DESY (Alemania)
+- ICTP (Trieste, Italia)
+- IRFU (Francia)
+- RedCLARA
 
-This is (part of) the project team planning work virtually.
+This is (part of) the [project team](https://laconga.redclara.net/the-team/) planning work virtually.
 ![Team photo](website/figures/integrantes-conga-yankady-corregido-1.png)
 
 ## Contributing
@@ -71,22 +87,22 @@ If you think you can help in any of the areas listed above (and we bet you can) 
 
 Please note that it's very important to us that we maintain a positive, open, safe and supportive learning environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
-## Get in touch
+### Get in touch
 
-You can contact our project manager **Andrea Grijalva** by email at contacto AT laconga DOT redclara DOT net
+You can contact our project manager **Andrea Grijalva** by email at [contacto@laconga.redclara.net](contacto@laconga.redclara.net)
 You can follow also the project in our social networks @lacongaphysics in Instagram, Twitter and Facebook.
 
 ## Citing _LA-CoNGA Physics_
 
 For now we do not have anything. To be added later. Define granularity
 
-We really appreciate any references that you make to The Turing Way project in your and we hope it is useful. If you have any questions please [get in touch.](#Get-in-touch)
+We really appreciate any references that you make to LA-CoNGA Physics project and we hope it is useful. If you have any questions please [get in touch.](#Get-in-touch)
 
 ## Thank you
 
-Thank you so much (Gracias!) for visiting the project and we do hope that you'll join us on this amazing journey to .
+Thank you so much (Gracias :smiling_face_with_three_hearts:!) for visiting the project and we do hope that you'll join us on this amazing journey to .
 
-## Contributors
+## Collaborators
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 Do we want to add the contributors list?? Yes
