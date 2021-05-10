@@ -89,8 +89,17 @@ Please note that it's very important to us that we maintain a positive, open, sa
 
 ### Get in touch
 
-You can contact our project manager **Andrea Grijalva** by email at [contacto@laconga.redclara.net](contacto@laconga.redclara.net)
-You can follow also the project in our social networks @lacongaphysics in Instagram, Twitter and Facebook.
+You can contact our project manager **Andrea Grijalva** by email at contacto AT laconga DOT redclara DOT net
+You can follow also the project in our social networks:
+There are many ways to get in touch with _LA-CoNGA Physics_ team!
+
+- Follow us for regular updates on our social networks
+  - [@lacongaphysics](https://twitter.com/lacongaphysics) on Twitter
+  - [@lacongaphysics](https://www.facebook.com/lacongaphysics) on Facebook
+  - [@lacongaphysics](https://www.instagram.com/lacongaphysics/) on Instagram  
+  - [Youtube Channel](https://www.youtube.com/channel/UCcXSolYkpCW_iYxHrnSJw0w)
+- Contact the Community Manager of _LA-CoNGA Physics_ project - Nane SN - by email at [mail@laconga.redclara.net](mailto:mail@laconga.redclara.net)
+
 
 ## Citing _LA-CoNGA Physics_
 
