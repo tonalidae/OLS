@@ -21,13 +21,11 @@ If you have any questions that aren't discussed below, please let us know throug
 
 Been here before? Already know what you're looking for in this guide? Jump to the following sections:
 
-
 - [Joining the community](#joining-the-community)
 - [Inclusivity](#inclusivity)
 - [Get in touch](#get-in-touch)
 - [Where to start](#where-to-start)
 - [Recognising Contributions](#recognising-contributions)
-
 
 ## Joining the community
 
@@ -64,11 +62,10 @@ We have a set of tools to facilitate the activities developed in LA-CoNGA Physic
 
 ## Recognising Contributions
 
-We welcome and recognise all kinds of contributions, from XXXXXX, to XXXXX.
-Your contributions will be acknowledged and recorded ...
-_LA-CoNGA Physics_ follows the [all-contributors][https://github.com/all-contributors/all-contributors] specifications.
+We welcome and recognise all kinds of contributions.
+Your contributions will be acknowledged and recorded . _LA-CoNGA Physics_ follows the [all-contributors](https://github.com/all-contributors/all-contributors) specifications.
 The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
-You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
+You can see a list of current contributors [here](link-contrib). 😍
 
 To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
 
@@ -81,14 +78,16 @@ The bot will then create a Pull Request to add the contributor and reply with th
 
 **PLEASE NOTE: Only one contributor can be added with the bot at a time!**
 Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
+<!--
 Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
 Therefore, please check the [open pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls) first to make sure there aren't any open requests from the bot before adding another.
 
 What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
 (Don't feel bad, we have all done it! 🙈)
 Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
-
+-->
 Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)!
+
 
 ---
 _These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) of the [turing Way Community](https://github.com/alan-turing-institute/the-turing-way)! (License: CC-BY)_

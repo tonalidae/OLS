@@ -25,10 +25,9 @@ Table of contents:
   - [What are we doing?](#What-are-we-doing?)
   - [Why are we doing it?](#Why-are-we-doing-it?)
 - [The team](#the-team)
-- [Contributing](#contributing)
+- [Do you want to contribute?](#do-you-want-to-contribute?)
   - [Get in touch](#get-in-touch)
 - [Citing _LA-CoNGA physics_](#citing-LA-CoNGA-physics)
-- [Contributors](#contributors)
 
 ## About the project
 
@@ -56,41 +55,40 @@ _LA-CoNGA physics_ mission is the creation of a Latin-American-European Virtual 
 ## The team
 
 [_LA-CoNGA physics_ network](https://laconga.redclara.net/our-partners/) is composed of 11 universities, 9 research institutions and 3 industrial partners in advanced physics:
-- Universidad Antonio Nariño (UAN, BOGOTÁ COLOMBIA)
-- Universidad Industrial De Santander (UIS, BUCARAMANGA COLOMBIA)
-- Universidad San Francisco De Quito (USFQ, QUITO ECUADOR)
-- Universidad De Investigación De Tecnología Experimental Yachay (YACHAY TECH, URCUQUÍ, ECUADOR)
-- Universidad Nacional De Ingeniería (UNI, LIMA PERÚ)
-- Universidad Nacional Mayor De San Marcos (UNMSM, CARACAS VENEZUELA)
-- Universidad Central De Venezuela (UCV, CARACAS VENEZUELA)
-- Universidad Simón Bolívar (USB, CARACAS VENEZUELA)
-- Université De Paris (PARIS FRANCE)
-- University Paul Sabatier, Toulouse Iii (UPS, TOULOUSE FRANCE)
-- Technische Universitaet Dresden (TUD, DREsDE GERMANY)
-- Centre National De La Recherche Scientifique (CNRS FRANCE)
-- CERN (Suiza)
-- DESY (Alemania)
-- ICTP (Trieste, Italia)
-- IRFU (Francia)
+- Universidad Antonio Nariño (UAN) :colombia:
+- Universidad Industrial De Santander (UIS) :colombia:
+- Universidad San Francisco De Quito (USFQ) :ecuador:
+- Universidad De Investigación De Tecnología Experimental Yachay (YACHAY TECH) :ecuador:
+- Universidad Nacional De Ingeniería (UNI) :peru:
+- Universidad Nacional Mayor De San Marcos (UNMSM) :peru:
+- Universidad Central De Venezuela (UCV) :venezuela:
+- Universidad Simón Bolívar (USB) :venezuela:
+- Université De Paris :fr:
+- University Paul Sabatier, Toulouse Iii (UPS) :fr:
+- Technische Universitaet Dresden (TUD) :de:
+- Centre National De La Recherche Scientifique (CNRS) :fr:
+- CERN :switzerland:
+- DESY :de:
+- ICTP (Trieste) :it:
+- IRFU (Francia) :fr:
 - RedCLARA
 
-This is (part of) the [project team](https://laconga.redclara.net/the-team/) planning work virtually.
-![Team photo](website/figures/integrantes-conga-yankady-corregido-1.png)
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Do we want to add the contributors list?? Yes
 
-## Contributing
+## Do you want to contribute?
 
 :construction: This project is a work in progress and we are always looking for motivated people to help us build something that is useful for our students :construction:
 
 We need experts (researchers and teachers) in the Advanced physics for curricula design, in interconnected instrumentation, in data management (particularly ensuring the highest quality data protection plans are in place), in communication, in fundraising, app development, user experience design and documentation.
 
-If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're sure you can) then please check out our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're sure you can) then please contact our project manager **Andrea Grijalva** by email at [contacto@laconga.redclara.net](mailto:contacto@laconga.redclara.net)
 
 Please note that it's very important to us that we maintain a positive, open, safe and supportive learning environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 ### Get in touch
 
-You can contact our project manager **Andrea Grijalva** by email at contacto AT laconga DOT redclara DOT net
-You can follow also the project in our social networks:
+You can contact our project manager **Andrea Grijalva** by email at [contacto@laconga.redclara.net](mailto:contacto@laconga.redclara.net). You can follow also the project in our social networks:
 There are many ways to get in touch with _LA-CoNGA Physics_ team!
 
 - Follow us for regular updates on our social networks
@@ -98,10 +96,8 @@ There are many ways to get in touch with _LA-CoNGA Physics_ team!
   - [@lacongaphysics](https://www.facebook.com/lacongaphysics) on Facebook
   - [@lacongaphysics](https://www.instagram.com/lacongaphysics/) on Instagram  
   - [Youtube Channel](https://www.youtube.com/channel/UCcXSolYkpCW_iYxHrnSJw0w)
-- Contact the Community Manager of _LA-CoNGA Physics_ project - Nane SN - by email at [mail@laconga.redclara.net](mailto:mail@laconga.redclara.net)
 
-
-## Citing _LA-CoNGA Physics_
+## Citing _LA-CoNGA Physics_ <!--es necesario???-->
 
 For now we do not have anything. To be added later. Define granularity
 
@@ -110,8 +106,3 @@ We really appreciate any references that you make to LA-CoNGA Physics project an
 ## Thank you
 
 Thank you so much (Gracias :smiling_face_with_three_hearts:!) for visiting the project and we do hope that you'll join us on this amazing journey to .
-
-## Collaborators
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-Do we want to add the contributors list?? Yes
