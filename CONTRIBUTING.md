@@ -16,16 +16,15 @@ Please note that it's very important to us that we maintain a positive, open, sa
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
-
 ## Table of contents
 
 Been here before? Already know what you're looking for in this guide? Jump to the following sections:
 
 - [Joining the community](#joining-the-community)
 - [Inclusivity](#inclusivity)
-- [Get in touch](#get-in-touch)
 - [Where to start](#where-to-start)
-- [Recognising Contributions](#recognising-contributions)
+  - [_LA-CoNGA Physics_ platform](#la-conga-physics_-platform)
+  - [Other Resources](#other-resources)
 
 ## Joining the community
 
@@ -33,61 +32,41 @@ _LA-CoNGA Physics_ is an [Erasmus+ Capacity Building](https://ec.europa.eu/progr
 
 ## Inclusivity
 
-_LA-CoNGA Physics_ aims to be inclusive to people **from all walks of life and to all research fields.**
-These intentions must be reflected in the contributions that we make to the project.
+_LA-CoNGA Physics_ aims to be inclusive to people in **Advanced Physics**. These intentions must be reflected in the contributions that we make to the project.
 
-In addition to the CoC, behavior in each LA-CoNGA scenario must respect diversity and promote equity and inclusion, as mentioned in our **[Diversity Plan](diversity_plan.md)**.
+In addition to the [CoC](CODE_OF_CONDUCT.md), behavior in each LA-CoNGA scenario must respect diversity and promote equity and inclusion, as mentioned in our **[Diversity Plan](diversity_plan.md)**.
 
-We encourage intentional, inclusive actions from contributors to _LA-CoNGA Physics_. Here are a few examples of such actions:
-
-- Use respectful, gender-neutral and inclusive language (learn more about [inclusive writing](https://www.le.ac.uk/oerresources/ssds/studyskills/page_37.htm), resource by University of Leicester).
-- Aim to include perspectives of researchers from different research backgrounds such as science, humanities and social sciences by not limiting the scope to only scientific domains.
-- Make sure that the colour palettes are accessible to colour-blind readers and contributors.
-See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/blog-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
-
-## Get in touch
-
-There are many ways to get in touch with _LA-CoNGA Physics_ team!
-
-- Follow us for regular updates on our social networks
-  - [@lacongaphysics](https://twitter.com/lacongaphysics) on Twitter
-  - [@lacongaphysics](https://www.facebook.com/lacongaphysics) on Facebook
-  - [@lacongaphysics](https://www.instagram.com/lacongaphysics/) on Instagram  
-  - [Youtube Channel](https://www.youtube.com/channel/UCcXSolYkpCW_iYxHrnSJw0w)
-- Contact the Community Manager of _LA-CoNGA Physics_ project - Nane SN - by email at [mail@laconga.redclara.net](mailto:mail@laconga.redclara.net)
+We encourage intentional, inclusive actions from contributors to _LA-CoNGA Physics_. Please use respectful, gender-neutral and inclusive language (learn more about [inclusive writing](https://www.le.ac.uk/oerresources/ssds/studyskills/page_37.htm), resource by University of Leicester).
 
 ## Where to start :point_right: LA-CoNGA Platform
 
-We have a set of tools to facilitate the activities developed in LA-CoNGA Physics. These tools seek to manage aspects such as communication, online classes, content preservation or computational calculation in the best way. In [LA-CoNGA Tools Docs](docs/laconga_platform.md) you can find more details of LA-CoNGA Physics platform and guides for the use of each of the tools.
+> Please contact our IT manager by email at [alexanderm2@protonmail.com](#mailto:alexanderm2@protonmail.com) to get your credentials for *LA-CoNGA Platform*.
 
-## Recognising Contributions
+### _LA-CoNGA Physics_ platform
 
-We welcome and recognise all kinds of contributions.
-Your contributions will be acknowledged and recorded . _LA-CoNGA Physics_ follows the [all-contributors](https://github.com/all-contributors/all-contributors) specifications.
-The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
-You can see a list of current contributors [here](link-contrib). 😍
+_LA-CoNGA Physics_ activities are supported and/or developed through a set of tools which form the _LA-CoNGA Physics_ platform. These tools seek to manage aspects such as communication, online classes, content preservation or computational calculation in the best way. Below each tool is described.
 
-To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
+- **Mattermost** available at https://mattermost.redclara.net. A messaging service focused on communication management for workgroups.
+- **GitLab** available at https://gitmilab.redclara.net. A [Git-based](https://git-scm.com/) collaborative software development and version control web tool.
+- **JupyterHUB** available at https://jupyter.redclara.net. A multi-user interactive computing web service.
+- **ECMS** (Educational content management service) available at https://laconga.redclara.net/courses. A service to manage educational contents for *LA-CoNGA Physics* courses.
+- LA-CoNGA Physics **website** available at https://laconga.redclara.net. Official web site for *LA-CoNGA Physics* project.
 
-```
-@all-contributors please add <username> for <contributions>
-```
+Aditionally we have a set of templates availabe at [LA-CoNGA Physics templates](docs/laconga_platform.md#templates-la-conga) to support the creation of contents.
 
-You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types and examples of how we've run this command in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/274).
-The bot will then create a Pull Request to add the contributor and reply with the pull request details.
+You can find more details on these tools in [LA-CoNGA Platform Guides](docs/laconga_platform.md)
 
-**PLEASE NOTE: Only one contributor can be added with the bot at a time!**
-Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
-<!--
-Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
-Therefore, please check the [open pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls) first to make sure there aren't any open requests from the bot before adding another.
+### Other Resources
 
-What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
-(Don't feel bad, we have all done it! 🙈)
-Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
--->
-Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)!
+#### Writing in Markdown
 
+Most of the writing that you'll do in most of the services of the _LA-CoNGA Physics_ platform will be in [Markdown][markdown].
+You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting.
+For example, you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
+
+For a detailed guide on how to write in markdown visit the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by [Adam Pritchard](https://github.com/adam-p).
+
+[_The Turing Way_ style guide](https://the-turing-way.netlify.app/community-handbook/style.html) will provide guidance and supporting resources for ensuring consistency, readability and accessibility for all our users.
 
 ---
 _These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) of the [turing Way Community](https://github.com/alan-turing-institute/the-turing-way)! (License: CC-BY)_

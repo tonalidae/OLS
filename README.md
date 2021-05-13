@@ -31,6 +31,8 @@ Table of contents:
 - [Do you want to contribute?](#do-you-want-to-contribute?)
   - [Get in touch](#get-in-touch)
 - [Citing _LA-CoNGA physics_](#citing-LA-CoNGA-physics)
+- [Acknowledgment](#acknowledgment)
+- [Contributors ✨](#contributors-)
 
 ## About the project
 
@@ -58,6 +60,9 @@ _LA-CoNGA physics_ mission is the creation of a Latin-American-European Virtual 
 ## The team
 
 [_LA-CoNGA physics_ network](https://laconga.redclara.net/our-partners/) is composed of 11 universities, 9 research institutions and 3 industrial partners in advanced physics:
+
+### Institutions
+
 - Universidad Antonio Nariño (UAN) :colombia:
 - Universidad Industrial De Santander (UIS) :colombia:
 - Universidad San Francisco De Quito (USFQ) :ecuador:
@@ -69,15 +74,23 @@ _LA-CoNGA physics_ mission is the creation of a Latin-American-European Virtual 
 - Université De Paris :fr:
 - University Paul Sabatier, Toulouse Iii (UPS) :fr:
 - Technische Universitaet Dresden (TUD) :de:
-- Centre National De La Recherche Scientifique (CNRS) :fr:
-- CERN :switzerland:
-- DESY :de:
-- ICTP (Trieste) :it:
-- IRFU (Francia) :fr:
-- RedCLARA
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-Do we want to add the contributors list?? Yes
+### Research Institutions & Industrial Partners
+- Centre National De La Recherche Scientifique (CNRS) :fr:
+- European Organization for Nuclear Research (CERN) :switzerland:
+- Deutsches Elektronen-Synchrotron (DESY) :de:
+- Abdus Salam International Centre for Theoretical Physics (ICTP) :it:
+- Institute of research into the fundamental laws of the Universe (IRFU) :fr:
+- RedCLARA
+- Centro Virtual de Altos Estudios de Altas Energias (CEVALE2) :venezuela:
+- Asociación Colombiana para el Avance de la Ciencia (AvanCiencia) :colombia:
+- New York Academy of Sciences :us:
+- CAEN :it:
+- DBAccess
+- Frontier X Analytics :colombia:
+- Alan Turing Institute :uk:
+
+We have a wonderful team, please go to the bottom of the page in the section [Contributors ✨](#contributors-) to meet them.
 
 ## Do you want to contribute?
 
@@ -85,30 +98,34 @@ Do we want to add the contributors list?? Yes
 
 We need experts (researchers and teachers) in the Advanced physics for curricula design, in interconnected instrumentation, in data management (particularly ensuring the highest quality data protection plans are in place), in communication, in fundraising, app development, user experience design and documentation.
 
-If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're sure you can) then please contact our project manager **Andrea Grijalva** by email at [contacto@laconga.redclara.net](mailto:contacto@laconga.redclara.net)
+If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're sure you can) then please contact our project manager by email at [contacto@laconga.redclara.net](mailto:contacto@laconga.redclara.net)
+
+You can follow also the project in our social networks:
+
+- [@lacongaphysics](https://twitter.com/lacongaphysics) on Twitter
+- [@lacongaphysics](https://www.facebook.com/lacongaphysics) on Facebook
+- [@lacongaphysics](https://www.instagram.com/lacongaphysics/) on Instagram  
+- [Youtube Channel](https://www.youtube.com/channel/UCcXSolYkpCW_iYxHrnSJw0w)
 
 Please note that it's very important to us that we maintain a positive, open, safe and supportive learning environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
-### Get in touch
-
-You can contact our project manager **Andrea Grijalva** by email at [contacto@laconga.redclara.net](mailto:contacto@laconga.redclara.net). You can follow also the project in our social networks:
-There are many ways to get in touch with _LA-CoNGA Physics_ team!
-
-- Follow us for regular updates on our social networks
-  - [@lacongaphysics](https://twitter.com/lacongaphysics) on Twitter
-  - [@lacongaphysics](https://www.facebook.com/lacongaphysics) on Facebook
-  - [@lacongaphysics](https://www.instagram.com/lacongaphysics/) on Instagram  
-  - [Youtube Channel](https://www.youtube.com/channel/UCcXSolYkpCW_iYxHrnSJw0w)
-
 ## Citing _LA-CoNGA Physics_ <!--es necesario???-->
-
-For now we do not have anything. To be added later. Define granularity
+<!--
+For now we do not have anything. To be added later.
++ Define granularity
++ Propouse:
+  - publish a package for every module.
+-->
 
 We really appreciate any references that you make to LA-CoNGA Physics project and we hope it is useful. If you have any questions please [get in touch.](#Get-in-touch)
 
 ## Thank you
 
 Thank you so much (Gracias :smiling_face_with_three_hearts:!) for visiting the project and we do hope that you'll join us on this amazing journey to .
+
+## Acknowledgment
+
+We are grateful to the Ecuadorian National Research and Education Network _CEDIA_ and to _RedCLARA_ for providing us with the technological capabilities for these services.
 
 ## Contributors ✨
 
