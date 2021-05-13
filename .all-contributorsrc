@@ -19,6 +19,26 @@
         "maintenance",
         "platform"
       ]
+    },
+    {
+      "login": "camachoreina",
+      "name": "Reina Camacho Toro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12454015?v=4",
+      "profile": "https://github.com/camachoreina",
+      "contributions": [
+        "code",
+        "content",
+        "data",
+        "eventOrganizing",
+        "fundingFinding",
+        "doc",
+        "ideas",
+        "mentoring",
+        "projectManagement",
+        "translation",
+        "talk",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
