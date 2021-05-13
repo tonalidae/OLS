@@ -1,4 +1,7 @@
 <div align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img alt="ReDoc logo" src="docs/images/logo-laconga-nt.png" width="150px" />
 
   **LA-CoNGA physics (Latin American alliance for Capacity buildNG in Advanced physics)**
@@ -106,3 +109,23 @@ We really appreciate any references that you make to LA-CoNGA Physics project an
 ## Thank you
 
 Thank you so much (Gracias :smiling_face_with_three_hearts:!) for visiting the project and we do hope that you'll join us on this amazing journey to .
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/mxrtinez"><img src="https://avatars.githubusercontent.com/u/5553457?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexander Martínez Méndez</b></sub></a><br /><a href="https://github.com/LA-CoNGA/OLS/commits?author=mxrtinez" title="Code">💻</a> <a href="#content-mxrtinez" title="Content">🖋</a> <a href="https://github.com/LA-CoNGA/OLS/commits?author=mxrtinez" title="Documentation">📖</a> <a href="#ideas-mxrtinez" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-mxrtinez" title="Maintenance">🚧</a> <a href="#platform-mxrtinez" title="Packaging/porting to new platform">📦</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
