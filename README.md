@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img alt="ReDoc logo" src="docs/images/logo-laconga-nt.png" width="150px" />
 
@@ -120,6 +120,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://twitter.com/mxrtinez"><img src="https://avatars.githubusercontent.com/u/5553457?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexander Martínez Méndez</b></sub></a><br /><a href="https://github.com/LA-CoNGA/OLS/commits?author=mxrtinez" title="Code">💻</a> <a href="#content-mxrtinez" title="Content">🖋</a> <a href="https://github.com/LA-CoNGA/OLS/commits?author=mxrtinez" title="Documentation">📖</a> <a href="#ideas-mxrtinez" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-mxrtinez" title="Maintenance">🚧</a> <a href="#platform-mxrtinez" title="Packaging/porting to new platform">📦</a></td>
+    <td align="center"><a href="https://github.com/camachoreina"><img src="https://avatars.githubusercontent.com/u/12454015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reina Camacho Toro</b></sub></a><br /><a href="https://github.com/LA-CoNGA/OLS/commits?author=camachoreina" title="Code">💻</a> <a href="#content-camachoreina" title="Content">🖋</a> <a href="#data-camachoreina" title="Data">🔣</a> <a href="#eventOrganizing-camachoreina" title="Event Organizing">📋</a> <a href="#fundingFinding-camachoreina" title="Funding Finding">🔍</a> <a href="https://github.com/LA-CoNGA/OLS/commits?author=camachoreina" title="Documentation">📖</a> <a href="#ideas-camachoreina" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-camachoreina" title="Mentoring">🧑‍🏫</a> <a href="#projectManagement-camachoreina" title="Project Management">📆</a> <a href="#translation-camachoreina" title="Translation">🌍</a> <a href="#talk-camachoreina" title="Talks">📢</a> <a href="#video-camachoreina" title="Videos">📹</a></td>
   </tr>
 </table>
 
