@@ -52,15 +52,15 @@ _LA-CoNGA Physics_ activities are supported and/or developed through a set of to
 - **ECMS** (Educational content management service) available at https://laconga.redclara.net/courses. A service to manage educational contents for *LA-CoNGA Physics* courses.
 - LA-CoNGA Physics **website** available at https://laconga.redclara.net. Official web site for *LA-CoNGA Physics* project.
 
-Aditionally we have a set of templates availabe at [LA-CoNGA Physics templates](docs/laconga_platform.md#templates-la-conga) to support the creation of contents.
+Aditionally we have a set of templates availabe at [LA-CoNGA Physics templates](docs/tools/plantillas/plantillas.md) to support the creation of contents.
 
-You can find more details on these tools in [LA-CoNGA Platform Guides](docs/laconga_platform.md)
+You can find more details on these tools in [LA-CoNGA Platform Guides](https://github.com/LA-CoNGA/OLS/)
 
 ### Other Resources
 
 #### Writing in Markdown
 
-Most of the writing that you'll do in most of the services of the _LA-CoNGA Physics_ platform will be in [Markdown][markdown].
+Most of the writing that you'll do in most of the services of the _LA-CoNGA Physics_ platform will be in [Markdown][docs/tools/markdown.md].
 You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting.
 For example, you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
