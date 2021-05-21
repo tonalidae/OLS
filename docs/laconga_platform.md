@@ -22,7 +22,7 @@ Below you will find a video tutorial for the use of this service.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/25Xi67bCfFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A detailed guide for its use can be consulted at [Mattermost User’s Guide](https://docs.mattermost.com/guides/user.html).
+A more detailed guide for its use can be consulted at [Mattermost User’s Guide](https://docs.mattermost.com/guides/user.html).
 
 ## GitLab service
 
