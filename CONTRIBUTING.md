@@ -54,7 +54,7 @@ _LA-CoNGA Physics_ activities are supported and/or developed through a set of to
 
 Aditionally we have a set of templates availabe at [LA-CoNGA Physics templates](docs/tools/plantillas/plantillas.md) to support the creation of contents.
 
-You can find more details on these tools in [LA-CoNGA Platform Guides](docs/lacongaplatform.md)
+You can find more details on these tools in [LA-CoNGA Platform Guides](docs/laconga_platform.md)
 
 ### Other Resources
 
