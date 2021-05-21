@@ -18,6 +18,10 @@ LA-CoNGA Physcis has two workspaces in this service which are listed below.
 - [LA-CoNGA](https://mattermost.redclara.net/la-conga)for the coordination of LA-CoNGA Physics.
 - [LA-CoNGA-Edu](https://mattermost.redclara.net/la-conga-edu)for the student community.
 
+Below you will find a video tutorial for the use of this service.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25Xi67bCfFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A detailed guide for its use can be consulted at [Mattermost User’s Guide](https://docs.mattermost.com/guides/user.html).
 
 ## GitLab service
@@ -35,6 +39,10 @@ The official documentation for the use of Jupyter Notebooks can be found at [The
 ## LA-CoNGA Physics LCMS service
 
 The material for the _LA-CoNGA Physics_ module classes is created and preserved by an _LCMS-like_ service (Learning Content Management Service) called _LA_CoNGA Physics Courses_. This service uses the framework [_MkDocs_](https://www.mkdocs.org/) to build a web page. The creation and editing of the educational content for the classes is done collaboratively from the [LA-CoNGA Courses](https://gitmilab.redclara.net/tutoriales/tutorial-mkdocs) repository and hosted in the [GitLab service](gitmilab.redclara.net/). The resulting web page can be viewed in [laconga.redclara.net/courses/](laconga.redclara.net/courses/)
+
+Below you will find a video tutorial for the use of this service.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6QchBVf1YDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## LA-CoNGA Physics website
 
